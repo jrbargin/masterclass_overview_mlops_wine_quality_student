@@ -1,5 +1,5 @@
 /wq_env
-.venv/
+/venv/
 .idx/
 devserver.sh
 main.py
